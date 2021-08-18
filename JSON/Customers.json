@@ -1,0 +1,30 @@
+[
+  {
+    "Id": 1,
+    "Name": "harsh",
+    "Email": "harsh@gmail.com",
+    "Password": "WrVaxBGyXpzVFaWxNgPJ2Q==",
+    "role": 0
+  },
+  {
+    "Id": 2,
+    "Name": "yogesh",
+    "Email": "yogesh@gmail.com",
+    "Password": "6nx5U+CR3VOnwF1F3dcUjw==",
+    "role": 0
+  },
+  {
+    "Id": 3,
+    "Name": "mike",
+    "Email": "john@gmail.com",
+    "Password": "vTIgz4Z1n93hDFtAeM83Uw==",
+    "role": 0
+  },
+  {
+    "Id": 4,
+    "Name": "tom",
+    "Email": "tom@gmail.com",
+    "Password": "QHhotgjHfEkExvJoUdhCeg==",
+    "role": 0
+  }
+]
