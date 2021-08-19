@@ -22,3 +22,16 @@
 - Updating user session whenever user update the details
 - admin module -> setting the books
 - Admin module -> Search with book by name
+
+<br/>
+
+### 19th August 2021
+- Displaying category information to customer.
+- display books according to category id entered by the userSession.
+- displaying data in table format
+- displaying particular book according to the book id
+- Customer can add multiple books into cart
+- Admin :
+  - Adding books to file
+  - updating book details
+  - search book by name

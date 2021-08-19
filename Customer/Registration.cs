@@ -57,6 +57,14 @@ namespace Customer
                 }
                 else return null;
             }
+            catch (DirectoryNotFoundException ex)
+            {
+                Console.WriteLine(ex.Message);
+            }
+            catch (FileNotFoundException ex)
+            {
+                Console.WriteLine(ex.Message);
+            }
             catch (Exception e) { Console.WriteLine(e.Message.ToString()); }
             return null;
         }

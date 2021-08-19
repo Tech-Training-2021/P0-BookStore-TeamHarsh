@@ -1,0 +1,111 @@
+[
+  {
+    "userDetails": {
+      "Id": 5,
+      "Name": "vivek",
+      "Email": "vivek@gmail.com",
+      "Password": "81p/6SMvuIyVU7OuDMlYCA==",
+      "role": 0
+    },
+    "cart_details": [
+      {
+        "book_Def": {
+          "Book_Id": 102,
+          "ISBN_10": "1505234727",
+          "Language": "English",
+          "Publisher": "CreateSpace Independent Publishing Platform",
+          "Total_Pages": 398,
+          "Publication_Date": "December 5, 2014",
+          "Book_Name": "The Three Musketeers",
+          "Book_Author": "Alexandre Dumas",
+          "Book_Price": 180.0,
+          "categoryName": 1001,
+          "Book_Description": "The Three Musketeers is a novel by Alexandre Dumas. Set in the 17th century, it recounts the adventures of a young man named d'Artagnan after he leaves home to travel to Paris, to join the Musketeers of the Guard. D'Artagnan is not one of the musketeers of the title; those being his friends Athos, Porthos and Aramis, inseparable friends who live by the motto \"all for one, one for all\", a motto which is first put forth by d'Artagnan. In genre, The Three Musketeers is primarily a historical novel and adventure. However Dumas also frequently works into the plot various injustices, abuses and absurdities of the ancien regime, giving the novel an additional political aspect at a time when the debate in France between republicans and monarchists was still fierce. The story was first serialized from March to July 1844, during the July monarchy, four years before the French Revolution of 1848 violently established the second Republic. The author's father, Thomas-Alexandre Dumas had been a well-known general in France's Republican army during the French revolutionary wars. Although adaptations tend to portray d'Artagnan and the three musketeers as heroes, the novel portrays less appealing characters, who are willing to commit violence over slight insults and through unquestioning loyalty to the king and queen, and treat their servants and supposed social inferiors with contempt and violence.",
+          "Customer_Review": 4.5,
+          "Book_Image": "https://images-na.ssl-images-amazon.com/images/I/41TxXqToCCL._SX348_BO1,204,203,200_.jpg",
+          "Book_Qty": 10
+        },
+        "quantity": 2
+      }
+    ]
+  },
+  {
+    "userDetails": {
+      "Id": 1,
+      "Name": "harsh",
+      "Email": "harsh@gmail.com",
+      "Password": "11Am7P1MFmkl2x/ij1g/Jg==",
+      "role": 0
+    },
+    "cart_details": [
+      {
+        "book_Def": {
+          "Book_Id": 107,
+          "ISBN_10": "1779501129",
+          "Language": "English",
+          "Publisher": "DC Comics; Illustrated edition",
+          "Total_Pages": 416,
+          "Publication_Date": "May 20, 2019",
+          "Book_Name": "Watchmen",
+          "Book_Author": "Alan Moore",
+          "Book_Price": 300.0,
+          "categoryName": 1003,
+          "Book_Description": "A hit HBO original series, Watchmen, the groundbreaking series from award-winning author Alan Moore, presents a world where the mere presence of American superheroes changed history--the U.S. won the Vietnam War, Nixon is still president, and the Cold War is in full effect.",
+          "Customer_Review": 3.6,
+          "Book_Image": "https://images-na.ssl-images-amazon.com/images/I/410D4H0IqjL._SX318_BO1,204,203,200_.jpg",
+          "Book_Qty": 8
+        },
+        "quantity": 2
+      },
+      {
+        "book_Def": {
+          "Book_Id": 102,
+          "ISBN_10": "1505234727",
+          "Language": "English",
+          "Publisher": "CreateSpace Independent Publishing Platform",
+          "Total_Pages": 398,
+          "Publication_Date": "December 5, 2014",
+          "Book_Name": "The Three Musketeers",
+          "Book_Author": "Alexandre Dumas",
+          "Book_Price": 180.0,
+          "categoryName": 1001,
+          "Book_Description": "The Three Musketeers is a novel by Alexandre Dumas. Set in the 17th century, it recounts the adventures of a young man named d'Artagnan after he leaves home to travel to Paris, to join the Musketeers of the Guard. D'Artagnan is not one of the musketeers of the title; those being his friends Athos, Porthos and Aramis, inseparable friends who live by the motto \"all for one, one for all\", a motto which is first put forth by d'Artagnan. In genre, The Three Musketeers is primarily a historical novel and adventure. However Dumas also frequently works into the plot various injustices, abuses and absurdities of the ancien regime, giving the novel an additional political aspect at a time when the debate in France between republicans and monarchists was still fierce. The story was first serialized from March to July 1844, during the July monarchy, four years before the French Revolution of 1848 violently established the second Republic. The author's father, Thomas-Alexandre Dumas had been a well-known general in France's Republican army during the French revolutionary wars. Although adaptations tend to portray d'Artagnan and the three musketeers as heroes, the novel portrays less appealing characters, who are willing to commit violence over slight insults and through unquestioning loyalty to the king and queen, and treat their servants and supposed social inferiors with contempt and violence.",
+          "Customer_Review": 4.5,
+          "Book_Image": "https://images-na.ssl-images-amazon.com/images/I/41TxXqToCCL._SX348_BO1,204,203,200_.jpg",
+          "Book_Qty": 10
+        },
+        "quantity": 2
+      }
+    ]
+  },
+  {
+    "userDetails": {
+      "Id": 6,
+      "Name": "jack",
+      "Email": "jack@gmail.com",
+      "Password": "1BNMnPc+Ks+nI2nPC1ITUQ==",
+      "role": 0
+    },
+    "cart_details": [
+      {
+        "book_Def": {
+          "Book_Id": 104,
+          "ISBN_10": "0060935464",
+          "Language": "English",
+          "Publisher": "Harper Perennial",
+          "Total_Pages": 336,
+          "Publication_Date": "January 1, 2002",
+          "Book_Name": "To Kill a Mockingbird",
+          "Book_Author": "Harper Lee",
+          "Book_Price": 200.0,
+          "categoryName": 1002,
+          "Book_Description": "One of the most cherished stories of all time, To Kill a Mockingbird has been translated into more than forty languages, sold more than forty million copies worldwide, served as the basis for an enormously popular motion picture, and was voted one of the best novels of the twentieth century by librarians across the country. A gripping, heart-wrenching, and wholly remarkable tale of coming-of-age in a South poisoned by virulent prejudice, it views a world of great beauty and savage inequities through the eyes of a young girl, as her father—a crusading local lawyer—risks everything to defend a black man unjustly accused of a terrible crime.",
+          "Customer_Review": 4.0,
+          "Book_Image": "https://images-na.ssl-images-amazon.com/images/I/51IXWZzlgSL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg",
+          "Book_Qty": 20
+        },
+        "quantity": 2
+      }
+    ]
+  }
+]

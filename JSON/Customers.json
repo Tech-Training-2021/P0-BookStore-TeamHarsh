@@ -3,7 +3,7 @@
     "Id": 1,
     "Name": "harsh",
     "Email": "harsh@gmail.com",
-    "Password": "WrVaxBGyXpzVFaWxNgPJ2Q==",
+    "Password": "11Am7P1MFmkl2x/ij1g/Jg==",
     "role": 0
   },
   {
@@ -25,6 +25,20 @@
     "Name": "tom",
     "Email": "tom@gmail.com",
     "Password": "QHhotgjHfEkExvJoUdhCeg==",
+    "role": 0
+  },
+  {
+    "Id": 5,
+    "Name": "vivek",
+    "Email": "vivek@gmail.com",
+    "Password": "81p/6SMvuIyVU7OuDMlYCA==",
+    "role": 0
+  },
+  {
+    "Id": 6,
+    "Name": "jack",
+    "Email": "jack@gmail.com",
+    "Password": "1BNMnPc+Ks+nI2nPC1ITUQ==",
     "role": 0
   }
 ]
